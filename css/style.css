@@ -51,11 +51,32 @@ body {
   line-height: 1;
 }
 
-.test {
-  /* max-width: 1000px; */
-  color: #fff;
-  max-width: 50rem;
-  font-size: 2rem;
+.section-hero {
+}
+
+.hero {
   background-color: red;
-  padding: 4rem;
+  max-width: 130rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.hero-text-box {
+}
+
+.heading-primary {
+}
+
+.hero-description {
+}
+
+.btn {
+}
+
+.hero-img-box {
+}
+
+.hero-img {
+  width: 100%;
 }
